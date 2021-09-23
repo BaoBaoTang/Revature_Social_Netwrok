@@ -1,0 +1,11 @@
+.action-item:hover{
+    background-color: pink;
+}
+
+youtube-player{
+   justify-content: center;
+}
+
+img{
+    max-width: 500px;
+}
